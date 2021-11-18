@@ -1,0 +1,1 @@
+print("MERHABA  BTK AKADEMİ")
